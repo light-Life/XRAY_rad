@@ -9,7 +9,7 @@
 
 搭配[FOFAbat](https://github.com/light-Life/FOFAbat)食用更佳哦
 
-
+至此FOFA+xray+rad超级联动已全部完结
 
 # 用法
 
