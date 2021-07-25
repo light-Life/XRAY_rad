@@ -5,14 +5,21 @@
 
 3 【rad单个爬取，导出为TXT文件】 
 
-搭配[FOFAbat](链接地址)食用更佳哦
+![项目](https://hellohy.top/wp-content/uploads/2021/07/image-57-1024x578.png)
+
+搭配[FOFAbat](https://github.com/light-Life/FOFAbat)食用更佳哦
+
+
+
 # 用法
 
 把xray_rad放在xray和rad同级文件下
 
-首先启动xray：./xray webscan --listen 127.0.0.1:7777 --html-output bug.html
+把目标添加到url.txt
 
-再运行此脚本即可
+启动xray：./xray webscan --listen 127.0.0.1:7777 --html-output bug.html
+
+运行此脚本即可
 
 注意：文件名同意修改为xray、rad
 
