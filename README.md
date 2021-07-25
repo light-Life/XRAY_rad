@@ -5,7 +5,7 @@
 
 3 【rad单个爬取，导出为TXT文件】 
 
-
+搭配[FOFAbat](链接地址)食用更佳哦
 # 用法
 
 把xray_rad放在xray和rad同级文件下
