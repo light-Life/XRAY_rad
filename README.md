@@ -40,5 +40,5 @@
 
 ## 代码不多但能学到些小技巧
 
-欢迎访问我的博客：https://huayang.top
+欢迎访问我的博客：https://hellohy.top
 
