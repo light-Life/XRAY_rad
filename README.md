@@ -1,11 +1,17 @@
 # 项目介绍
-1 【rad+xray批量扫描】
-2 【xray被动扫描(配合awvs和bp)】
-3 【rad单个爬取，导出为TXT文件】
+1 【rad+xray批量扫描】 
+2 【xray被动扫描(配合awvs和bp)】 
+3 【rad单个爬取，导出为TXT文件】 
 
 # 用法
 
-把
+把xray_rad放在xray和rad同级文件下
+
+首先启动xray：./xray webscan --listen 127.0.0.1:7777 --html-output bug.html
+
+再运行此脚本即可
+
+注意：文件名同意修改为xray、rad
 
 # 想法&问题  
 这个项目最初的思想是极度简便，用多线程实现两条命令同时进行，再打包为app(macOS)文件或是exe文件  
